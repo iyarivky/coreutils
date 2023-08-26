@@ -1,4 +1,4 @@
-module github.com/guonaihong/coreutils
+module github.com/iyarivky/coreutils
 
 go 1.21
 

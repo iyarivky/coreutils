@@ -2,7 +2,7 @@ package echo
 
 import (
 	"bytes"
-	"github.com/guonaihong/coreutils/utils"
+	"github.com/iyarivky/coreutils/utils"
 	"testing"
 )
 

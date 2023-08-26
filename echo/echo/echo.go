@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/guonaihong/coreutils/echo"
+	"github.com/iyarivky/coreutils/echo"
 	"os"
 )
 

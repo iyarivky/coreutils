@@ -1,7 +1,7 @@
 package echo
 
 import (
-	"github.com/guonaihong/coreutils/utils"
+	"github.com/iyarivky/coreutils/utils"
 	"github.com/guonaihong/flag"
 	"io"
 	"os"
